@@ -1,2 +1,6 @@
-# tailwind-css-responsive-practice
-A responsive webpage design based on Tailwind CSS.
+# Tailwind CSS Responsive Webpage
+
+## Installation
+
+- `npm init -y`
+- `npm install -D tailwindcss`

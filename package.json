@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-css-responsive-practice",
+  "version": "1.0.0",
+  "description": "A responsive webpage design based on Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
